@@ -11,7 +11,7 @@
 
 ## Contributing
 
-Feel free to drop a pull request to add new features that you might like to see in **_GoCalculate_**. We request that you first run [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports), [golint](https://github.com/golang/lint) and [go vet](https://golang.org/cmd/vet/) on code before submitting a pull request.
+Feel free to drop a pull request to add new features that you might like to see in **_GoCalculate_**. We request that you first run [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports), [golint](https://github.com/golang/lint) and [go vet](https://golang.org/cmd/vet/) before submitting a pull request.
 
 ## License
 
